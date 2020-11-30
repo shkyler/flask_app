@@ -11,7 +11,7 @@ setup(
     author_email='moorepa@outlook.com',
     description='Hello World! appliction for Flask',
     packages=['my_app'],
-    platfroms='any',
+    platforms='any',
     install_required=[
         'flask'
     ],
